@@ -1,28 +1,14 @@
 # SKPI-MACHINE-LEARNING
 Hasil pembelajaran SKPI pada tahun 2025
 
-# Setup Projek
+- **Pertemuan - 1**
+  >Pembahasan tentang memahami konsep dasar machine learning dan analisis data menggunakan Python 
 
-Membuat Virtual Environment dengan menjalankan perintah
+- **Pertemuan - 2**
+  >Membangun model klasifikasi menggunakan teknik machine learning atau deep learning untuk membedakan antara gambar kucing dan anjing.
 
-**py -m venv .venv**
+- **Pertemuan - 3**
+  >Implementasi yang bertujuan untuk melakukan web scraping untuk mengumpulkan data dari situs web Livin by Mandiri.
 
-Mengaktifkan virtual environment dengan menjalankan perintah
-
-**.venv\Scripts\activate** direkomendasikan menggunakan CMD/Command Line **-Install library ultralytics** 
-
-agar dapat mengimplementasikan YOLO V8, untuk menginstall jalankan perintah 
-
-**pip install ultralytics**
-
-install cv2 untuk menyimpan gambar pada folder output
-
-**pip install opencv-python-headless**
-
-Buat folder bernama input_images pada root direktori, folder tersebut digunakan untuk menampung image yang akan di deteksi.
-
-# Cara Running
-
-jalankan perintah berikut untuk me running program
-
-**py main.py**
+- **Pertemuan - 4**
+  >Membangun pendeteksi Botol Menggunakan YoloV8
