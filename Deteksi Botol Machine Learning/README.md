@@ -1,4 +1,4 @@
-# Tugas Akhir/Mandiri PCD - Deteksi Botol Menggunakan YoloV8
+# SKPI PERTEMUAN KE - 4 - Deteksi Botol Menggunakan YoloV8
 
 <b>Setup Projek</b>
 - Membuat Virtual Environment dengan menjalankan perintah <br> ``` py -m venv .venv ```
