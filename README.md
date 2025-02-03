@@ -8,7 +8,7 @@ Hasil pembelajaran SKPI pada tahun 2025
   >Membangun model klasifikasi menggunakan teknik machine learning atau deep learning untuk membedakan antara gambar kucing dan anjing.
 
 - **Pertemuan - 3**
-  >Implementasi yang bertujuan untuk melakukan web scraping untuk mengumpulkan data dari situs web Livin by Mandiri.
+  >Implementasi yang bertujuan untuk melakukan web scraping dan analisis sentimen untuk mengumpulkan data dari situs web Livin by Mandiri.
 
 - **Pertemuan - 4**
   >Membangun pendeteksi Botol Menggunakan YoloV8
